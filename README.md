@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🎓 I'm currently studying a Bachelor of Engineering in Computer Systems at the University of Tasmania.
+- 🤖 I'm interested in all kinds of robotics, electronics and anything that can be programmed.
+- 💻 Love C++, but occasionally work in Python, C#, Java or Kotlin.
+- 📫 How to reach me:
+  - Reilly.Callaway@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/reilly-callaway-863942169)
+  
 <!--
 **reilly-callaway/reilly-callaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
