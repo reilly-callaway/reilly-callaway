@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🎓 I'm currently studying a Bachelor of Engineering in Computer Systems at the University of Tasmania.
 - 🤖 I'm interested in all kinds of robotics, electronics and anything that can be programmed.
 - 💻 Love C++, but occasionally work in Python, C#, Java or Kotlin.
 - 📫 How to reach me:
